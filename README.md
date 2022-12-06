@@ -151,7 +151,7 @@ Exemplo:
 
 4. No formulario que aparecerá insira a URL do Trigger no campo "Payload URL", e em "Content type" selecione a opção "aplication/json", depois clique no botão "Add webhook";
 
-![image](https://user-images.githubusercontent.com/41959558/205768386-fab11366-4942-416b-ab06-34e9eb80f3f0.png)
+![image](https://user-images.githubusercontent.com/118018380/205992737-27cd75c8-7f33-4d9e-b3ab-d84008804929.png)
 
 
 ## 8 - Teste de Trigger com o GitHub Webhook:
